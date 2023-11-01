@@ -1,497 +1,465 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
 <url>
   <loc>https://fukui-pharma.com/</loc>
-  <lastmod>2022-04-19T21:05:17+00:00</lastmod>
-  <priority>1.00</priority>
+  <priority>1.0</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/index2.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/menu.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
   <loc>https://fukui-pharma.com/tit.html</loc>
-  <lastmod>2022-05-30T15:23:55+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2023-09-21T21:02:12+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/mid.html</loc>
-  <lastmod>2022-05-30T15:32:02+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://fukui-pharma.com/books/mokuzito.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/tex.html</loc>
-  <lastmod>2022-05-30T19:54:17+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://fukui-pharma.com/supliments/begu.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/index.html</loc>
-  <lastmod>2022-04-19T21:05:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/2007ranten120.html</loc>
-  <lastmod>2022-04-19T21:05:03+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/2007catC.html</loc>
-  <lastmod>2022-04-19T21:05:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/2007paphE.html</loc>
-  <lastmod>2022-04-19T21:05:22+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/2006ranten.html</loc>
-  <lastmod>2022-04-19T21:05:22+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/2006cattleya.html</loc>
-  <lastmod>2022-04-19T21:05:07+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/2006paphio.html</loc>
-  <lastmod>2022-04-19T21:05:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/2006lycaste11.html</loc>
-  <lastmod>2022-04-19T21:05:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/dendrobiumu.html</loc>
-  <lastmod>2022-04-19T21:05:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/paphio101.html</loc>
-  <lastmod>2022-04-19T21:05:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/paphio202.html</loc>
-  <lastmod>2022-04-19T21:05:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/paphio103.html</loc>
-  <lastmod>2022-04-19T21:05:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/cattleya1.html</loc>
-  <lastmod>2022-04-19T21:05:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/cattleya22.html</loc>
-  <lastmod>2022-04-19T21:05:03+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/lycaste1.html</loc>
-  <lastmod>2022-04-19T21:05:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/phalaenopsis.html</loc>
-  <lastmod>2022-04-19T21:05:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/masdevallia.html</loc>
-  <lastmod>2022-04-19T21:05:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/kaizyou.html</loc>
-  <lastmod>2022-04-19T21:05:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/2004ran.html</loc>
-  <lastmod>2022-04-19T21:05:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/cattleya.html</loc>
-  <lastmod>2022-04-19T21:05:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/cattleyablue.html</loc>
-  <lastmod>2022-04-19T21:05:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/paphiopedilum.html</loc>
-  <lastmod>2022-04-19T21:05:22+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/paphiopedilum2.html</loc>
-  <lastmod>2022-04-19T21:05:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/phalaenopsis4.html</loc>
-  <lastmod>2022-04-19T21:05:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/dendrobiumnew.html</loc>
-  <lastmod>2022-04-19T21:05:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/lycasteNew.html</loc>
-  <lastmod>2022-04-19T21:05:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/mauisunset.htm</loc>
-  <lastmod>2022-04-19T21:05:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/hanaumabay.htm</loc>
-  <lastmod>2022-04-19T21:05:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/wikikibeach.htm</loc>
-  <lastmod>2022-04-19T21:05:03+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/mauibus.htm</loc>
-  <lastmod>2022-04-19T21:05:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/mauisyokubutu.htm</loc>
-  <lastmod>2022-04-19T21:05:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/suizokukan.htm</loc>
-  <lastmod>2022-04-19T21:05:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/hawaibeach.htm</loc>
-  <lastmod>2022-04-19T21:05:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/../order.html</loc>
-  <lastmod>2022-05-30T19:50:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/mokuzito.htm</loc>
-  <lastmod>2022-04-19T21:05:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/begu.html</loc>
-  <lastmod>2022-04-19T21:05:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fukui-pharma.com/suppuse.html</loc>
-  <lastmod>2022-04-19T21:05:24+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/supliments/suppuse.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:12+09:00</lastmod>
 </url>
 <url>
   <loc>https://fukui-pharma.com/skincare.html</loc>
-  <lastmod>2022-04-19T21:05:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/mokuzitu.htm</loc>
-  <lastmod>2022-04-19T21:05:10+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/books/mokuzitu.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/thbalance.htm</loc>
-  <lastmod>2022-04-19T21:05:01+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/atopic/thbalance.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/shyoyou.htm</loc>
-  <lastmod>2022-04-19T21:05:13+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/nutri/shyoyou.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/menekikihon.htm</loc>
-  <lastmod>2022-04-19T21:05:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/atopic/menekikihon.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/vitasi2.htm</loc>
-  <lastmod>2022-04-19T21:05:12+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/nutri/vitasi2.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/vitasi4.htm</loc>
-  <lastmod>2022-04-19T21:05:03+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/nutri/vitasi4.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/eiyou.htm</loc>
-  <lastmod>2022-04-19T21:05:25+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/nutri/eiyou.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/eiyouso.htm</loc>
-  <lastmod>2022-04-19T21:05:09+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/nutri/eiyouso.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/be-tagur10.html</loc>
-  <lastmod>2022-04-19T21:05:03+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/nutri/serensir.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/kousanka.htm</loc>
-  <lastmod>2022-04-19T21:05:23+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/nutri/magsiryou.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/meneki.htm</loc>
-  <lastmod>2022-04-19T21:05:23+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/supliments/be-tagur10.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/atopic.htm</loc>
-  <lastmod>2022-04-19T21:05:19+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/freeradical/kousanka.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/serensir.htm</loc>
-  <lastmod>2022-04-19T21:05:03+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/atopic/meneki.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/magsiryou.htm</loc>
-  <lastmod>2022-04-19T21:05:25+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/flowers/2007ranten120.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/be-tagur.htm</loc>
-  <lastmod>2022-04-19T21:05:15+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/flowers/2007catC.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/sonota.html</loc>
-  <lastmod>2022-04-19T21:05:19+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/flowers/2007paphE.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/harubotan16.html</loc>
-  <lastmod>2022-04-19T21:05:27+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/flowers/2006ranten.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/takasimayabaraten.html</loc>
-  <lastmod>2022-04-19T21:05:10+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/flowers/2006cattleya.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/oldcar.html</loc>
-  <lastmod>2022-04-19T21:05:09+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://fukui-pharma.com/flowers/2006paphio.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/lipoicacid.html</loc>
-  <lastmod>2022-04-19T21:05:08+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://fukui-pharma.com/flowers/2006lycaste11.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/aensiryou.htm</loc>
-  <lastmod>2022-04-19T21:05:21+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://fukui-pharma.com/flowers/dendrobiumu.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/tetusiryou.htm</loc>
-  <lastmod>2022-04-19T21:05:02+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://fukui-pharma.com/flowers/paphio101.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/ganyuute.htm</loc>
-  <lastmod>2022-04-19T21:05:12+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://fukui-pharma.com/flowers/paphio202.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/cganyuu.htm</loc>
-  <lastmod>2022-04-19T21:05:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://fukui-pharma.com/flowers/paphio103.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/aganyuu.htm</loc>
-  <lastmod>2022-04-19T21:05:09+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/cattleya1.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/eganyuu.htm</loc>
-  <lastmod>2022-04-19T21:05:07+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/cattleya22.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/dganyuu.htm</loc>
-  <lastmod>2022-04-19T21:05:07+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/lycaste1.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/bkganyuu.htm</loc>
-  <lastmod>2022-04-19T21:05:03+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/phalaenopsis.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/b1ganyuu.htm</loc>
-  <lastmod>2022-04-19T21:05:06+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/masdevallia.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/b2ganyuu.htm</loc>
-  <lastmod>2022-04-19T21:05:03+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/kaizyou.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/b3ganyuu.htm</loc>
-  <lastmod>2022-04-19T21:05:04+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/2004ran.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/b5ganyuu.htm</loc>
-  <lastmod>2022-04-19T21:05:02+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/cattleya.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/b6ganyuu.htm</loc>
-  <lastmod>2022-04-19T21:04:59+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/cattleyablue.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/b12ganyu.htm</loc>
-  <lastmod>2022-04-19T21:05:16+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/paphiopedilum.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/yousanga.htm</loc>
-  <lastmod>2022-04-19T21:05:07+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/paphiopedilum2.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/biotinga.htm</loc>
-  <lastmod>2022-04-19T21:05:10+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/phalaenopsis4.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/coqganyu.htm</loc>
-  <lastmod>2022-04-19T21:05:10+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/dendrobiumnew.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/colingan.htm</loc>
-  <lastmod>2022-04-19T21:05:19+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/flowers/lycasteNew.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/inosigan.htm</loc>
-  <lastmod>2022-04-19T21:05:20+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/hawaii/mauisunset.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/carugany.htm</loc>
-  <lastmod>2022-04-19T21:05:11+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/hawaii/hanaumabay.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/magganyu.htm</loc>
-  <lastmod>2022-04-19T21:05:09+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/hawaii/wikikibeach.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/karigany.htm</loc>
-  <lastmod>2022-04-19T21:05:20+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/hawaii/mauibus.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/aenganyu.htm</loc>
-  <lastmod>2022-04-19T21:05:04+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/hawaii/mauisyokubutu.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/tetugany.htm</loc>
-  <lastmod>2022-04-19T21:05:27+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/hawaii/suizokukan.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/douganyu.htm</loc>
-  <lastmod>2022-04-19T21:05:13+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/hawaii/hawaibeach.htm</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/cromugan.htm</loc>
-  <lastmod>2022-04-19T21:05:12+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/order.html</loc>
+  <priority>0.6</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/mangagan.htm</loc>
-  <lastmod>2022-04-19T21:05:24+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/nutri/nulipoicacid.html</loc>
+  <priority>0.6</priority>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/yo-dogan.htm</loc>
-  <lastmod>2022-04-19T21:05:15+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/nutri/lipoicacid.html</loc>
+  <priority>0.6</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/serengan.htm</loc>
-  <lastmod>2022-04-19T21:04:59+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/index.html</loc>
+  <priority>0.6</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/moribuga.htm</loc>
-  <lastmod>2022-04-19T21:05:08+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/nutri/aensiryou.htm</loc>
+  <priority>0.6</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/vanagany.htm</loc>
-  <lastmod>2022-04-19T21:05:06+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/nutri/tetusiryou.htm</loc>
+  <priority>0.6</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/senigany.htm</loc>
-  <lastmod>2022-04-19T21:05:02+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/nutri/ganyuute.htm</loc>
+  <priority>0.6</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/keisogan.htm</loc>
-  <lastmod>2022-04-19T21:05:21+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/nutri/cganyuu.htm</loc>
+  <priority>0.6</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/housogan.htm</loc>
-  <lastmod>2022-04-19T21:05:15+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/nutri/aganyuu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
 <url>
-  <loc>https://fukui-pharma.com/gerumaga.htm</loc>
-  <lastmod>2022-04-19T21:05:21+00:00</lastmod>
-  <priority>0.41</priority>
+  <loc>https://fukui-pharma.com/nutri/eganyuu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
 </url>
-
+<url>
+  <loc>https://fukui-pharma.com/nutri/dganyuu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/bkganyuu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/b1ganyuu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/b2ganyuu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/b3ganyuu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/b5ganyuu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/b6ganyuu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/b12ganyu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/yousanga.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/biotinga.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/coqganyu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/colingan.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/inosigan.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/carugany.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/magganyu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/karigany.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/aenganyu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/tetugany.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/douganyu.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/cromugan.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/mangagan.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/yo-dogan.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/serengan.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/moribuga.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/vanagany.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/senigany.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/keisogan.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/housogan.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://fukui-pharma.com/nutri/gerumaga.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2023-09-21T21:02:11+09:00</lastmod>
+</url>
 
 </urlset>
